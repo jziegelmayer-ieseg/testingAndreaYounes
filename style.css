@@ -69,11 +69,12 @@ font-family: 'Inter', sans-serif;
     
 }
 
+	/*
 .btn-navy:hover {
 	color: navy;
 	background: black;
 }
-
+*/
 .list-inline {
 	list-style: none;
 	padding-left: 0px;
