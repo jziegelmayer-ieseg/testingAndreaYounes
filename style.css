@@ -55,6 +55,7 @@ font-family: 'Inter', sans-serif;
 	}
 }
 
+/*
 .card-white {
 	background-color: white;
 	padding: 40px;
@@ -63,8 +64,16 @@ font-family: 'Inter', sans-serif;
 	margin: 20px 0px;
 	text-align: center;
 }
+*/
 	
-
+.card-white {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px -5px 24px rgba(85, 79, 242, 1);
+	border-radius: 8px;
+	margin: 20px 0px;
+	text-align: center;
+}
 
 .img-circle  {
     	border-radius: 50px;
